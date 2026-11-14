@@ -592,6 +592,172 @@
           "Fonrobert, Charlotte Elisheva. 2009. “Gender Identity in Halakhic Discourse.” In Jewish Women: A Comprehensive Historical Encyclopedia. Jewish Women’s Archive."
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7775,
+          37.2087
+        ]
+      },
+      "properties": {
+        "title": "Jamestown, Virginia",
+        "term": "Thomas/in Hall",
+        "categories": [
+          "intersex",
+          "law"
+        ],
+        "text": [
+          "In 1629, the colonial court at Jamestown had to decide whether Thomas/in Hall, an intersex servant who had lived as both a man and a woman, was male or female. Neighbors had examined Hall’s body several times and disagreed about the answer. Hall told officials that “hee was both.” The court agreed, declaring Hall “a man and a woeman,” and ordered Hall to wear men’s clothing with a woman’s apron and cap."
+        ],
+        "links": [
+          {
+            "label": "Thomas/in Hall (Encyclopedia Virginia)",
+            "url": "https://encyclopediavirginia.org/entries/thomas-in-hall-c-1603-after-april-8-1629/"
+          }
+        ],
+        "sources": [
+          "Richter, Julie. “Thomas/in Hall (c. 1603–after April 8, 1629).” Encyclopedia Virginia. Virginia Humanities. https://encyclopediavirginia.org/entries/thomas-in-hall-c-1603-after-april-8-1629/",
+          "Vaughan, Alden. 1978. “The Sad Case of Thomas(ine) Hall.” Virginia Magazine of History and Biography 86 (2): 146–148."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "title": "Germany",
+        "term": "Legal category “divers” (diverse)",
+        "categories": [
+          "law"
+        ],
+        "text": [
+          "In 2017, Germany’s Federal Constitutional Court ruled that civil status law had to allow a positive entry for people who are neither male nor female. The case was brought by an intersex person. Since the end of 2018, birth records can list “divers” (diverse) as well as female and male, or leave the entry blank. A 2024 law, the Self-Determination Act, made it easier for trans, intersex, and nonbinary adults to change their legal gender entry."
+        ],
+        "links": [],
+        "sources": [
+          "Federal Constitutional Court of Germany. Order of the First Senate of 10 October 2017, 1 BvR 2019/16.",
+          "Federal Anti-Discrimination Agency. “Male – Female – Diverse: The ‘Third Option’ and the General Act on Equal Treatment.” https://www.antidiskriminierungsstelle.de/EN/about-discrimination/grounds-for-discrimination/gender-and-gender-identity/third-option/third-option-node.html"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093,
+          -33.8688
+        ]
+      },
+      "properties": {
+        "title": "Australia",
+        "term": "Legal category “non-specific”",
+        "categories": [
+          "law"
+        ],
+        "text": [
+          "In 2014, Australia’s High Court unanimously ruled that New South Wales could register a person’s sex as “non-specific.” The case was brought by Norrie, who did not identify as either male or female. The court found that the state’s own law already recognized that a person may be neither male nor female."
+        ],
+        "links": [],
+        "sources": [
+          "NSW Registrar of Births, Deaths and Marriages v Norrie [2014] HCA 11 (High Court of Australia, April 2, 2014)."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5146,
+          35.8989
+        ]
+      },
+      "properties": {
+        "title": "Malta",
+        "term": "Protection for intersex children",
+        "categories": [
+          "intersex",
+          "law"
+        ],
+        "text": [
+          "In 2015, Malta became the first country to ban medically unnecessary treatment or surgery on intersex children’s sex characteristics without their informed consent. The same law lets parents postpone listing a sex on a child’s birth certificate, and it lets adults change their legal gender by making a declaration, without surgery or medical approval."
+        ],
+        "links": [
+          {
+            "label": "Legal gender recognition and bodily integrity (Government of Malta)",
+            "url": "https://humanrights.gov.mt/legal-gender-recognition-and-bodily-integrity/"
+          }
+        ],
+        "sources": [
+          "Malta. Gender Identity, Gender Expression and Sex Characteristics Act (Act XI of 2015)."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5795,
+          39.8283
+        ]
+      },
+      "properties": {
+        "title": "United States",
+        "term": "“X” passport marker",
+        "categories": [
+          "law"
+        ],
+        "text": [
+          "Since 1992, the U.S. State Department had let people change the sex marker on their passports, at first only after surgery. In 2021, it added an “X” option. In January 2025, an executive order directed federal agencies to recognize only male and female, and the State Department stopped issuing passports with an X. In November 2025, the Supreme Court allowed the government to enforce the new policy while a legal challenge continued in lower courts. Legal categories can be narrowed as well as expanded."
+        ],
+        "links": [],
+        "sources": [
+          "Trump v. Orr, No. 25A319 (U.S. Supreme Court, November 6, 2025) (order granting stay).",
+          "Orr v. Trump, No. 1:25-cv-10313 (U.S. District Court, District of Massachusetts)."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6323,
+          46.5197
+        ]
+      },
+      "properties": {
+        "title": "Lausanne, Switzerland",
+        "term": "Sex testing in Olympic sport",
+        "categories": [
+          "defining"
+        ],
+        "text": [
+          "Who counts as a woman in sports? The International Olympic Committee (IOC), based in Lausanne, began sex testing women athletes at the 1968 Olympics and dropped required testing in 1999 after criticism from athletes and scientists. In March 2026, it announced that, starting with the 2028 Los Angeles Games, women’s events will be limited to athletes who pass a one-time screening for the SRY gene, which is usually found on the Y chromosome. The IOC calls the gene highly accurate evidence of male sex development. Critics, including the scientist who discovered the gene, say its presence doesn’t reliably determine a person’s sex."
+        ],
+        "links": [],
+        "sources": [
+          "International Olympic Committee. 2026. “Policy on the Protection of the Female (Women’s) Category in Olympic Sport.” March 26, 2026. https://stillmed.olympics.com/media/Documents/International-Olympic-Committee/EB/policy/policy-on-the-protection-of-the-female-category-english.pdf",
+          "Sinclair, Andrew. 2025. “World Athletics’ Mandatory Genetic Test for Women Athletes Is Misguided. I Should Know – I Discovered the Relevant Gene in 1990.” The Conversation. https://theconversation.com/world-athletics-mandatory-genetic-test-for-women-athletes-is-misguided-i-should-know-i-discovered-the-relevant-gene-in-1990-262367"
+        ]
+      }
     }
   ]
 }

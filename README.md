@@ -1,6 +1,6 @@
 # Cultural Variation in Gender
 
-An interactive map of how societies past and present have organized sex and gender, with sources for every entry. By Gwen Sharp, as part of the instructor resources for *A Sociology Experiment*.
+An interactive map of how societies past and present have organized sex and gender, with sources for every entry. By Gwen Sharp.
 
 The page has three parts:
 

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cultural Variation in Gender: An Interactive Map</title>
+  <meta name="description" content="An interactive map of how cultures past and present have organized sex and gender, with sources for every entry. By Gwen Sharp.">
+  <meta name="author" content="Gwen Sharp">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#all-places">Skip to the list of all places</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      <h1>Cultural Variation in Gender</h1>
+      <p class="byline">By Gwen Sharp · Part of the instructor resources for <cite>A Sociology Experiment</cite> · <span id="updated">Updated November 2026</span></p>
+      <p class="intro">Societies past and present have organized sex and gender in many different ways. Some recognize more than two genders. Some let people take on another gender’s role, sometimes for a while and sometimes for life. Others define who counts as a man or a woman by work, status, or law rather than by bodies alone. Select a pin to read about each case and its sources, or use the list below the map.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-labelledby="filter-heading">
+      <h2 id="filter-heading" class="visually-hidden">Filter the map</h2>
+      <fieldset id="filters">
+        <legend>Show these kinds of variation</legend>
+        <!-- Checkboxes are added by js/app.js from the categories in data/places.geojson -->
+      </fieldset>
+      <p id="count" class="count" role="status" aria-live="polite"></p>
+    </section>
+
+    <div id="map" role="region" aria-label="Map of places. Select a pin to read about it, or use the list of all places below."></div>
+    <noscript>
+      <p class="notice">The map needs JavaScript. You can read every entry in the <a href="data/places.geojson">data file</a>.</p>
+    </noscript>
+
+    <section id="all-places" class="places" aria-labelledby="places-heading" tabindex="-1">
+      <h2 id="places-heading">All places</h2>
+      <p class="hint">This list has the same information as the map. Select a column heading to sort.</p>
+      <label class="search" for="search">Search the list and map
+        <input type="search" id="search" placeholder="Search by place, term, or source" autocomplete="off">
+      </label>
+      <div class="table-wrap">
+        <table id="places-table">
+          <thead>
+            <tr>
+              <th scope="col" aria-sort="ascending"><button type="button" data-sort="title">Place</button></th>
+              <th scope="col" aria-sort="none"><button type="button" data-sort="term">Group or term</button></th>
+              <th scope="col" aria-sort="none"><button type="button" data-sort="kind">Kind of variation</button></th>
+              <th scope="col">Details and sources</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="about" aria-labelledby="about-heading">
+      <h2 id="about-heading">About this map</h2>
+      <p>The cases cover different things: separate gender categories, temporary or lifelong role changes, intersex variation, ideas about what makes someone a man or a woman, and laws. Each entry is a short summary; see its sources for the full picture. Terms and practices change over time, and people within a group don’t all understand them the same way.</p>
+      <h3>How to cite this map</h3>
+      <p id="citation">Sharp, Gwen. <cite>Cultural Variation in Gender</cite> (interactive map). Updated November 2026.</p>
+      <p id="feedback" hidden>Spot an error or know a case that belongs here? <a id="feedback-link" href="#">Suggest a correction or addition</a>.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Text and data © 2026 Gwen Sharp, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. You may share and adapt them with credit.</p>
+      <p>Map tiles © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors. Map display by <a href="https://leafletjs.com/">Leaflet</a>.</p>
+    </div>
+  </footer>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,595 @@
+{
+  "type": "FeatureCollection",
+  "name": "Cultural Variation in Gender",
+  "author": "Gwen Sharp",
+  "updated": "November 2026",
+  "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+  "categories": {
+    "multiple": "Third and multiple genders",
+    "crossing": "Taking on another gender’s role",
+    "intersex": "Intersex variation",
+    "defining": "What makes someone a man or a woman",
+    "law": "Law and legal recognition"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.31723,
+          18.26082
+        ]
+      },
+      "properties": {
+        "title": "Dominican Republic",
+        "term": "Guevedoces",
+        "categories": [
+          "intersex"
+        ],
+        "text": [
+          "In the town of Las Salinas, a genetic condition that is usually quite rare, 5-alpha-reductase deficiency, became concentrated in the local population because of its isolation. Male children with this condition will appear to be female until puberty, when they suddenly develop a penis and their testes descend. Such children are locally called guevedoces (“eggs at twelve”). Once this change occurs, these boys would adopt male identities and go on to live as men."
+        ],
+        "links": [
+          {
+            "label": "Images",
+            "url": "https://www.usrf.org/news/010308-guevedoces.html"
+          }
+        ],
+        "sources": [
+          "Imperato-McGinley, J., L. Guerrero, T. Gautier, and R. E. Peterson. 1974. “Steroid 5α-Reductase Deficiency in Man: An Inherited Form of Male Pseudohermaphroditism.” Science 186 (4170): 1213–1215.",
+          "Imperato-McGinley, J., R. E. Peterson, T. Gautier, et al. 1979. “Androgens and the Evolution of Male Gender Identity among Male Pseudohermaphrodites with 5α-Reductase Deficiency.” New England Journal of Medicine 300: 1233–1237."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.29517,
+          17.13029
+        ]
+      },
+      "properties": {
+        "title": "Oaxaca, Mexico",
+        "term": "Zapotec muxes",
+        "categories": [
+          "multiple"
+        ],
+        "text": [
+          "In the Oaxacan region of Mexico, feminine men are called muxes (MOO-shays). There are two types, the gunaa and the nguiiu. The gunaa were born as men but identify as women and take on female roles in society. Nguiiu were born as men and are attracted to other men, but don’t dress or identify as women."
+        ],
+        "links": [
+          {
+            "label": "More information and photos",
+            "url": "https://voices.uchicago.edu/202304gnse15002-06/2023/11/08/mexicos-third-gender-a-broad-overview-of-muxes/"
+          }
+        ],
+        "sources": [
+          "Mirandé, Alfredo. 2017. Behind the Mask: Gender Hybridity in a Zapotec Community. Tucson: University of Arizona Press.",
+          "Cultural Survival. “Verbena Muxe Resisting Gender Binaries through Indigeneity.” Cultural Survival Quarterly. https://www.culturalsurvival.org/publications/cultural-survival-quarterly/verbena-muxe-resisting-gender-binaries-through-indigeneity"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.99512,
+          36.52729
+        ]
+      },
+      "properties": {
+        "title": "Navajo Nation",
+        "term": "Nádleehí",
+        "categories": [
+          "multiple"
+        ],
+        "text": [
+          "Like many Native American tribes, the Navajo recognized more than two genders, including nádleehí, or individuals whose gender constantly changed between the other categories."
+        ],
+        "links": [
+          {
+            "label": "Clips from the documentary Two Spirits (PBS)",
+            "url": "https://www.pbs.org/independentlens/documentaries/two-spirits/"
+          }
+        ],
+        "sources": [
+          "Epple, Carolyn. 1998. “Coming to Terms with Navajo Nádleehí: A Critique of Berdache, ‘Gay,’ ‘Alternate Gender,’ and ‘Two-Spirit.’” American Ethnologist 25 (2): 267–290."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.69824,
+          19.7667
+        ]
+      },
+      "properties": {
+        "title": "Hawaii",
+        "term": "Māhū",
+        "categories": [
+          "multiple"
+        ],
+        "text": [
+          "Native Hawaiians recognized māhū, or individuals who took on the behaviors and roles of the other sex."
+        ],
+        "links": [],
+        "sources": [
+          "Hamer, Dean, and Joe Wilson, dirs. 2014. Kumu Hina. Documentary. Broadcast on PBS Independent Lens, May 4, 2015."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.45312,
+          23.40276
+        ]
+      },
+      "properties": {
+        "title": "India",
+        "term": "Hijras",
+        "categories": [
+          "multiple",
+          "law"
+        ],
+        "text": [
+          "Hijras are legally recognized as a third gender, though British colonial law tried to control or eliminate them."
+        ],
+        "links": [
+          {
+            "label": "More information and photos",
+            "url": "https://rpl.hds.harvard.edu/religion-context/case-studies/gender/third-gender-and-hijras"
+          }
+        ],
+        "sources": [
+          "Nanda, Serena. 1990. Neither Man nor Woman: The Hijras of India. Belmont, CA: Wadsworth.",
+          "National Legal Services Authority v. Union of India, (2014) 5 SCC 438 (Supreme Court of India, April 15, 2014)."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.77915,
+          -21.23322
+        ]
+      },
+      "properties": {
+        "title": "Cook Islands",
+        "term": "Akava’ine",
+        "categories": [
+          "multiple"
+        ],
+        "text": [
+          "In the Cook Islands, akava’ine was the gender recognized for those who took on the roles and behaviors of the other sex."
+        ],
+        "links": [],
+        "sources": [
+          "Alexeyeff, Kalissa. 2009. Dancing from the Heart: Movement, Gender, and Sociality in the Cook Islands. Honolulu: University of Hawai‘i Press."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.24292,
+          -21.1556
+        ]
+      },
+      "properties": {
+        "title": "Tonga",
+        "term": "Fakaleitī",
+        "categories": [
+          "multiple"
+        ],
+        "text": [
+          "Fakaleitī are individuals who are assigned male at birth but express a feminine gender identity. The term comes from faka- (“in the manner of”) and leitī, borrowed from the English word lady, so it means “in the manner of a lady.”"
+        ],
+        "links": [],
+        "sources": [
+          "Besnier, Niko. 1997. “Sluts and Superwomen: The Politics of Gender Liminality in Urban Tonga.” Ethnos 62 (1–2): 5–31."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.39471,
+          -13.73405
+        ]
+      },
+      "properties": {
+        "title": "Samoa",
+        "term": "Fa’afafine",
+        "categories": [
+          "multiple"
+        ],
+        "text": [
+          "Fa’afafine is the term for the gender of those who take on roles/behaviors of the other sex."
+        ],
+        "links": [
+          {
+            "label": "More information and photos",
+            "url": "https://nhm.org/stories/beyond-gender-indigenous-perspectives-faafafine-and-faafatama"
+          }
+        ],
+        "sources": [
+          "Schmidt, Johanna. 2010. Migrating Genders: Westernisation, Migration, and Samoan Fa’afafine. Farnham, Surrey: Ashgate.",
+          "Schmidt, Johanna Mary. 2005. “Migrating Genders: Westernisation, Migration, and Samoan Fa’afafine.” PhD thesis, Sociology, University of Auckland. http://hdl.handle.net/2292/2309"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.12598,
+          0.08789
+        ]
+      },
+      "properties": {
+        "title": "Borneo",
+        "term": "Gerai Dayak; Iban manang bali",
+        "categories": [
+          "defining",
+          "multiple"
+        ],
+        "text": [
+          "In the Gerai community, gender is partly defined by knowledge. A “woman” is a person who knows how to distinguish types of rice, store them correctly, and choose among them for different uses.",
+          "And across Borneo, several indigenous Dayak groups historically recognized gender-nonconforming shamans who bridged the physical and spiritual worlds. They adopted the dress, social roles, and mannerisms of another gender after receiving divine dreams or spiritual callings, and they held high status as healers and ritual mediators. Among the Iban people of Sarawak, the manang bali occupied the highest rank of traditional shamans. Following instructions from a deity, biological males lived, dressed, and sometimes married as women while performing healing ceremonies."
+        ],
+        "links": [],
+        "sources": [
+          "Helliwell, Christine. 2000. “‘It’s Only a Penis’: Rape, Feminism, and Difference.” Signs 25 (3): 789–816."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.61426,
+          -4.30259
+        ]
+      },
+      "properties": {
+        "title": "Papua New Guinea (Hua)",
+        "term": "Hua",
+        "categories": [
+          "defining"
+        ],
+        "text": [
+          "The Hua of Papua New Guinea believe sex is transmittable, a view that lets most people experience both genders before they die."
+        ],
+        "links": [],
+        "sources": [
+          "Meigs, Anna. 1976. “Male Pregnancy and the Reduction of Sexual Opposition in a New Guinea Highlands Society.” Ethnology 15 (4): 393–407."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.92847,
+          6.06097
+        ]
+      },
+      "properties": {
+        "title": "Nigeria",
+        "term": "Nnobi female husbands and male daughters",
+        "categories": [
+          "crossing"
+        ],
+        "text": [
+          "Among the Nnobi, social status may trump genitals for some women. High-ranking women could take on roles as “female husband” (who married wives) or “male daughter” (with the right to inherit) though they weren’t necessarily considered to be men."
+        ],
+        "links": [],
+        "sources": [
+          "Amadiume, Ifi. 1987. Male Daughters, Female Husbands: Gender and Sex in an African Society. London: Zed Books."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.74414,
+          -9.18887
+        ]
+      },
+      "properties": {
+        "title": "Papua New Guinea (Simbari)",
+        "term": "Kwolu-aatmwol",
+        "categories": [
+          "intersex"
+        ],
+        "text": [
+          "Among the Simbari, kwolu-aatmwol are boys who, due to a genetic condition, appear to be girls until puberty, like the guevedoces of the Dominican Republic."
+        ],
+        "links": [],
+        "sources": [
+          "Herdt, Gilbert H., and Julian Davidson. 1988. “The Sambia ‘Turnim-Man’: Sociocultural and Clinical Aspects of Gender Formation in Male Pseudohermaphrodites with 5-Alpha-Reductase Deficiency in Papua New Guinea.” Archives of Sexual Behavior 17: 33–56."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.93945,
+          34.16182
+        ]
+      },
+      "properties": {
+        "title": "Afghanistan",
+        "term": "Bacha posh",
+        "categories": [
+          "crossing"
+        ],
+        "text": [
+          "In Afghanistan, where women have limited freedom to go out in public without a male family member along, a daughter in a family with no sons may take on the role of a bacha posh (“dressed up as a boy”). A bacha posh wears boys’ clothing and a boy’s haircut; they are socially recognized as a boy and thus can go out in public without a male chaperone, and can even chaperone other female family members. This helps the family complete tasks like shopping, and a bacha posh may even get a job to bring in money for the family. However, the role is usually temporary; once girls reach puberty, most are expected to return to a female role; a younger sister might then take her place as an honorary “son.”"
+        ],
+        "links": [
+          {
+            "label": "More information and photos",
+            "url": "https://www.nationalgeographic.com/photography/article/bacha-posh-gender-afghanistan"
+          }
+        ],
+        "sources": [
+          "Nordberg, Jenny. 2014. The Underground Girls of Kabul: In Search of a Hidden Resistance in Afghanistan. New York: Crown."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.03357,
+          42.11045
+        ]
+      },
+      "properties": {
+        "title": "Albania",
+        "term": "Virgjinesha (sworn virgins)",
+        "categories": [
+          "crossing"
+        ],
+        "text": [
+          "In northern Albania, the role of virgjinesha, or “sworn virgin,” emerged in the 1400s when many men died from warfare. Every family needed a male relative because only men had certain rights, such as the right to buy or inherit land. So in some families, once the father died, one or more daughters would take an oath and become a virgjinesha. They would live as men, including wearing men’s clothing, and were allowed to take on the social roles of men on behalf of their families. However, as the name suggests, they were required to remain sexually celibate in order to take on this role. As women have gained rights in Albania, there is less need for this role, and only about a dozen virgjinesha remain."
+        ],
+        "links": [
+          {
+            "label": "Photos of the remaining sworn virgins (BBC)",
+            "url": "https://www.bbc.com/news/world-europe-63904744"
+          }
+        ],
+        "sources": [
+          "Young, Antonia. 2000. Women Who Become Men: Albanian Sworn Virgins. Oxford and New York: Berg."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24121,
+          6.99186
+        ]
+      },
+      "properties": {
+        "title": "Benin",
+        "term": "Dahomey women warriors",
+        "categories": [
+          "crossing"
+        ],
+        "text": [
+          "In the Kingdom of Dahomey, in what is now Benin, warfare in the early 1700s killed off many of the adult men. Women were then allowed to become warriors, a role that had been reserved for men. However, to do so, the women had to swear to give up an important part of the feminine gender role: having children. This is similar to the requirement that the virgjinesha of Albania remain virgins in return for taking on a male social role."
+        ],
+        "links": [],
+        "sources": [
+          "Alpern, Stanley B. 1998. Amazons of Black Sparta: The Women Warriors of Dahomey. New York: New York University Press."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5279,
+          -1.8479
+        ]
+      },
+      "properties": {
+        "title": "Sulawesi, Indonesia",
+        "term": "Bugis",
+        "categories": [
+          "multiple"
+        ],
+        "text": [
+          "The Bugis group’s language has five terms for gender: makkunrai (“female women”), oroani (“male men”), calalai (“female men”), calabai (“male women”), and bissu (“transgender priests”). By 2019 the number of bissu had dropped sharply after years of increasing persecution."
+        ],
+        "links": [],
+        "sources": [
+          "Graham Davies, Sharyn. 2006. Challenging Gender Norms: Five Genders among Bugis in Indonesia. Belmont, CA: Thomson Wadsworth."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.84842,
+          35.06948
+        ]
+      },
+      "properties": {
+        "title": "Zuni Pueblo",
+        "term": "Lhamana",
+        "categories": [
+          "multiple"
+        ],
+        "text": [
+          "On June 23, 1886, We’wha, a Zuni lhamana, visited President Grover Cleveland at the White House in full ceremonial dress."
+        ],
+        "links": [
+          {
+            "label": "More information and a photo",
+            "url": "https://www.womenshistory.org/education-resources/biographies/wewha"
+          }
+        ],
+        "sources": [
+          "Roscoe, Will. 1991. The Zuni Man-Woman. Albuquerque: University of New Mexico Press."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65003,
+          35.67642
+        ]
+      },
+      "properties": {
+        "title": "Tokyo (Edo), Japan",
+        "term": "Wakashu",
+        "categories": [
+          "multiple"
+        ],
+        "text": [
+          "In Edo (the historical name for Tokyo), wakashu (male youths) were treated as a third gender and appeared in about 60 Edo-period woodblock prints in a Royal Ontario Museum exhibition."
+        ],
+        "links": [
+          {
+            "label": "How to recognize wakashu: a review of the museum exhibition (V&A)",
+            "url": "https://www.vam.ac.uk/blog/museum-life/a-third-gender-beautiful-youths-in-japanese-prints-a-review"
+          }
+        ],
+        "sources": [
+          "Mostow, Joshua S., Asato Ikeda, and Ryoko Matsuba. 2016. A Third Gender: Beautiful Youths in Japanese Edo-Period Prints, 1600–1868. Leiden: Hotei."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.54297,
+          -35.67515
+        ]
+      },
+      "properties": {
+        "title": "Chile",
+        "term": "Mapuche machi",
+        "categories": [
+          "multiple"
+        ],
+        "text": [
+          "In rituals, male and female machi wear women’s shawls and scarves and shift among masculine, feminine, and co-gender identities."
+        ],
+        "links": [],
+        "sources": [
+          "Bacigalupo, Ana Mariella. 2007. Shamans of the Foye Tree: Gender, Power, and Healing among Chilean Mapuche. Austin: University of Texas Press."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.12401,
+          28.39486
+        ]
+      },
+      "properties": {
+        "title": "Nepal",
+        "term": "Legal category “other”",
+        "categories": [
+          "law"
+        ],
+        "text": [
+          "In 2007, Nepal’s Supreme Court created a legal gender category called “other,” based on a person’s self-identification (the government took five years to carry out the ruling)."
+        ],
+        "links": [],
+        "sources": [
+          "Sunil Babu Pant and Others v. Nepal Government and Others, Writ No. 917 of 2007 (Supreme Court of Nepal, December 2007). English translation in National Judicial Academy Law Journal 2 (2008): 261–286."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46454,
+          32.92421
+        ]
+      },
+      "properties": {
+        "title": "Galilee, Israel",
+        "term": "Six sex categories in Jewish law",
+        "categories": [
+          "intersex",
+          "law"
+        ],
+        "text": [
+          "Since the Mishnah was written down (around 200 CE), Jewish law has sorted people’s bodies into six sex categories: man, woman, saris, aylonit, androgynos, and tumtum. Scholars disagree about whether these are genders; some argue that Jewish law is based on an assumption of gender duality. Another reading holds that the saris and the ailonit are perceived as either man or woman via their primary sexual organs."
+        ],
+        "links": [],
+        "sources": [
+          "Strassfeld, Max K. 2022. Trans Talmud: Androgynes and Eunuchs in Rabbinic Literature. Oakland: University of California Press.",
+          "Fonrobert, Charlotte Elisheva. 2009. “Gender Identity in Halakhic Discourse.” In Jewish Women: A Comprehensive Historical Encyclopedia. Jewish Women’s Archive."
+        ]
+      }
+    }
+  ]
+}

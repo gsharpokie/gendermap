@@ -719,17 +719,23 @@
       },
       "properties": {
         "title": "United States",
-        "term": "“X” passport marker",
+        "term": "“X” marker on passports and driver’s licenses",
         "categories": [
           "law"
         ],
         "text": [
-          "Since 1992, the U.S. State Department had let people change the sex marker on their passports, at first only after surgery. In 2021, it added an “X” option. In January 2025, an executive order directed federal agencies to recognize only male and female, and the State Department stopped issuing passports with an X. In November 2025, the Supreme Court allowed the government to enforce the new policy while a legal challenge continued in lower courts. Legal categories can be narrowed as well as expanded."
+          "Since 1992, the U.S. State Department had let people change the sex marker on their passports, at first only after surgery. In 2021, it added an “X” option. In January 2025, an executive order directed federal agencies to recognize only male and female, and the State Department stopped issuing passports with an X. In November 2025, the Supreme Court allowed the government to enforce the new policy while a legal challenge continued in lower courts. Legal categories can be narrowed as well as expanded.",
+          "States set their own rules for driver’s licenses, and they’ve gone in different directions. As of November 2026, 22 states and Washington, D.C., offer an X option. Others allow only M or F, and some have reversed course: Arkansas quietly issued X licenses from 2010 until 2024, then banned them. In 2026, Kansas invalidated licenses whose marker doesn’t match the holder’s sex at birth."
         ],
         "links": [],
         "sources": [
           "Trump v. Orr, No. 25A319 (U.S. Supreme Court, November 6, 2025) (order granting stay).",
-          "Orr v. Trump, No. 1:25-cv-10313 (U.S. District Court, District of Massachusetts)."
+          "Orr v. Trump, No. 1:25-cv-10313 (U.S. District Court, District of Massachusetts).",
+          "Movement Advancement Project. 2026. “Equality Maps: Gender Markers on Driver’s Licenses.” Data as of November 14, 2026. https://www.mapresearch.org/equality-maps/identity_documents/drivers_license",
+          "Associated Press. 2024. “Arkansas Stops Offering ‘X’ as an Alternative to Male and Female on State IDs.” NBC News, March 2024. https://www.nbcnews.com/news/us-news/arkansas-stops-offering-x-alternative-male-female-state-ids-rcna143156",
+          "Arkansas House Bill 1796 (2025).",
+          "Associated Press. 2026. “New Law Puts Kansas at Vanguard of Denying Trans Identities on Drivers Licenses, Birth Certificates.” February 2026.",
+          "Kansas House Substitute for Senate Bill 244 (2026)."
         ]
       }
     },
@@ -756,6 +762,37 @@
         "sources": [
           "International Olympic Committee. 2026. “Policy on the Protection of the Female (Women’s) Category in Olympic Sport.” March 26, 2026. https://stillmed.olympics.com/media/Documents/International-Olympic-Committee/EB/policy/policy-on-the-protection-of-the-female-category-english.pdf",
           "Sinclair, Andrew. 2025. “World Athletics’ Mandatory Genetic Test for Women Athletes Is Misguided. I Should Know – I Discovered the Relevant Gene in 1990.” The Conversation. https://theconversation.com/world-athletics-mandatory-genetic-test-for-women-athletes-is-misguided-i-should-know-i-discovered-the-relevant-gene-in-1990-262367"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6765,
+          45.5152
+        ]
+      },
+      "properties": {
+        "title": "Oregon, United States",
+        "term": "“X” on driver’s licenses",
+        "categories": [
+          "law"
+        ],
+        "text": [
+          "In June 2016, a judge in Portland granted Jamie Shupe’s request to be legally recognized as nonbinary, neither male nor female. It was believed to be the first ruling of its kind in the United States. A year later, Oregon began letting residents choose X instead of M or F on driver’s licenses and state ID cards, the first state to formally adopt the option."
+        ],
+        "links": [
+          {
+            "label": "Oregon adds a new gender option to its driver’s licenses: X (NPR)",
+            "url": "https://www.npr.org/sections/thetwo-way/2017/06/16/533207483/oregon-adds-a-new-gender-option-to-its-driver-s-licenses-x"
+          }
+        ],
+        "sources": [
+          "NPR. 2017. “Oregon Adds a New Gender Option to Its Driver’s Licenses: X.” June 16, 2017. https://www.npr.org/sections/thetwo-way/2017/06/16/533207483/oregon-adds-a-new-gender-option-to-its-driver-s-licenses-x",
+          "Associated Press. 2017. “Rule Gives Oregonians Non-Gender Option on Driver’s License.” The Columbian, June 15, 2017. https://www.columbian.com/news/2017/jun/15/rule-gives-oregonians-non-gender-option-on-drivers-license/"
         ]
       }
     }

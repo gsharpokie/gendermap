@@ -63,6 +63,17 @@ Things to know:
 
 Opening `index.html` directly won’t load the data (browsers block that for security). Instead, open a terminal in this folder and run `python -m http.server`, then go to http://localhost:8000.
 
+## Accessibility
+
+This site aims to meet [WCAG 2.1](https://www.w3.org/TR/WCAG21/) Level AA, so it works for people who use screen readers, keyboards, or screen magnification.
+
+- All buttons, sliders, and links can be reached and used with a keyboard, and show a visible outline when selected.
+- The map has a text alternative: a searchable, sortable list of every place, with the same information.
+- Text meets WCAG AA color contrast standards.
+- Pages fit narrow phone screens without sideways scrolling.
+
+I checked it in November 2026 with automated accessibility testing (axe-core) plus keyboard and small-screen checks. It hasn’t yet been tested by people who use screen readers every day, so there may be problems I haven’t caught. If something doesn’t work for you, please [let me know](https://github.com/gsharpokie/gendermap/issues/new).
+
 ## License
 
 The map’s text and data are © 2026 Gwen Sharp and licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/); see `LICENSE`. Anyone may share and adapt them with credit. Leaflet (`vendor/leaflet/`) keeps its own BSD 2-Clause License.

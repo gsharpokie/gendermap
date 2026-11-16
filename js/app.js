@@ -201,7 +201,7 @@
         var p = f.properties;
         var colors = p.categories.map(function (c) { return COLORS[c]; });
         var dot = swatch(colors).outerHTML.replace('class="swatch"', '');
-        var icon = L.divIcon({ className: 'pin', html: dot, iconSize: [22, 22], iconAnchor: [11, 11], popupAnchor: [0, -10] });
+        var icon = L.divIcon({ className: 'pin', html: dot, iconSize: [24, 24], iconAnchor: [12, 12], popupAnchor: [0, -11] });
         var c = f.geometry.coordinates;
         var label = p.title + ': ' + p.term;
         var m = L.marker([c[1], c[0]], { icon: icon, title: label, alt: label, keyboard: true, riseOnHover: true });
